@@ -1,6 +1,6 @@
 # Pavan Gudimalla 👋
 ### Data Analyst
-I'm a Business Analytics graduate student at the University of Dayton with over 2.5 years of professional experience in data reporting, dashboard maintenance, and predictive analytics. At MediaMint, I progressed from an intern to a Data Analyst where I honed my skills in technical reporting, cloud integration, and data driven strategy.
+**I'm a Business Analytics graduate student at the University of Dayton with over 2.5 years of professional experience in data reporting, dashboard maintenance, and predictive analytics. At MediaMint, I progressed from an intern to a Data Analyst where I honed my skills in technical reporting, cloud integration, and data driven strategy.**
 
 My passion is leveraging modern data stacks including Python, SQL, Tableau, and AWS to build scalable ETL pipelines and turn complex datasets into actionable executive level insights. I thrive on solving high stakes business challenges through rigorous statistical analysis and dynamic data storytelling.
 ---
