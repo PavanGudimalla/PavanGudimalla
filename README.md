@@ -37,5 +37,5 @@ Previously at MediaMint, I progressed from an intern to a Data Analyst, honing m
 * **Email:** [pavan.gudimalla10@gmail.com](mailto:pavan.gudimalla10@gmail.com)
 * **Phone:** 937-219-8284
 * **LinkedIn:** www.linkedin.com/in/pavan-kumar-gudimalla-24ab25277
-
+* **Portfolio:** https://pavangudimalla.github.io/
 
